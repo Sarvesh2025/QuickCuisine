@@ -1,0 +1,39 @@
+#root{
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* .header > ul{
+  display:flex;
+  margin: 1rem;
+  justify-content: space-between;
+} */
+.header > img{
+  display: flex;
+  width:5rem;
+}
+.body{
+  display:flex;
+  justify-content: space-evenly;
+  margin:1rem;
+}
+
+.card{
+  align-content: space-around;
+  background-color:yellow;
+  border:darkblue;
+}
+.card > img{
+  width: 10rem;
+}
+
+
+
+
+
+
+
+
+
+
