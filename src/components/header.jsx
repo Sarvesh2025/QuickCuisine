@@ -23,6 +23,9 @@ const Header = () => {
         <Link className="px-8" to="/about">
           <li>About Us</li>
         </Link>
+        <Link className="px-8" to="/contact">
+          <li>Contact Us</li>
+        </Link>
         <Link className="px-8">
           <li>Cart</li>
         </Link>
