@@ -30,7 +30,7 @@ const Header = () => {
           <li>Cart</li>
         </Link>
         <Link className="px-8 mr-8" to="/login">
-          <button onClick={handleClick}>{signin} </button>
+          <li>Login</li>
         </Link>
       </ul>
     </div>
