@@ -6,7 +6,8 @@ import Counter from './components/Counter'
 function App() {
   return (
     <>
-      <Header/>
+      <Header />
+      <Body/>
         <Footer/>
     </>
   );
